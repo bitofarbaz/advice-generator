@@ -1,6 +1,8 @@
 import styled, { createGlobalStyle, css } from "styled-components";
 
+// @ts-ignore
 import { ReactComponent as DiceSvg } from "../assets/icon-dice.svg";
+// @ts-ignore
 import { ReactComponent as DividerSvg } from "../assets/pattern-divider-mobile.svg";
 
 export const CSSReset = createGlobalStyle`
